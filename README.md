@@ -1,4 +1,4 @@
-vc-emotion-detection
+Emotion-Detection-Project
 ==============================
 
 a ml project to predict emotions from text
